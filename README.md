@@ -30,10 +30,10 @@
         🏆 My Interests
       </b></samp></th>
       <th><samp><b>
-        🚀 My Languages
+        🚀 Languages
       </b></samp></th>
       <th><samp><b>
-        ⚡️ My Skills
+        ⚡️ Skills
       </b></samp></th>
     </tr><thead>
     <tbody>
@@ -44,7 +44,7 @@
           <img src='https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg' alt='Rust' width='30'/>
         </th>
         <th>
-          <img src='https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png' alt='Unity' width='30'/>       
+          <img src='https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png' alt='Unity' width='30'/>
         </th>
       </tr>
       <tr>
@@ -55,11 +55,12 @@
         </th>
         <th>
           <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' alt='Git' width='30'/>
+          <img src='https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png' alt='Blazor' width='30'/>
         </th>
       </tr>
       <tr>
         <th>🥉 Meh</th>
-        <th>        
+        <th>
           <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='Javascript' width='30'/>
           <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='HTML' width='30'/>
         </th>
@@ -76,12 +77,11 @@
           <img src='https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg' alt='Electron' width='30'/>
           <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='NodeJS' width='30'/>        
           <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' alt='MySQL' width='30'/>
-          <img src='https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png' alt='Blazor' width='30'/>
         </th
       </tr>
       <tr>
         <th>😞 Dislike</th>
-        <th>        
+        <th>
           <img src='https://icon-library.com/images/vba-icon/vba-icon-10.jpg' alt='VBA' width='30'/>
         </th>
         <th>
