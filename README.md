@@ -13,6 +13,9 @@
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=enderlook&count_private=true&show_icons=true&include_all_commits=true" />
+    </a>    
+    <a href="https://git.io/streak-stats">
+      <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Enderlook&date_format=M%20j%5B%2C%20Y%5D" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enderlook&langs_count=10&layout=compact&exclude_repo=roslyn" />
