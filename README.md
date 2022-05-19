@@ -45,6 +45,7 @@
         </th>
         <th>
           <img src='https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png' alt='Unity' width='30'/>
+          <img src='https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png' alt='Blazor' width='30'/>
         </th>
       </tr>
       <tr>
@@ -55,7 +56,6 @@
         </th>
         <th>
           <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' alt='Git' width='30'/>
-          <img src='https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png' alt='Blazor' width='30'/>
         </th>
       </tr>
       <tr>
