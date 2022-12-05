@@ -6,7 +6,7 @@
   I'm an student at Da Vinci University (video game development), with a strong affinity towards programming.
 </samp></p>
 
-<details align="center">
+<details>
   <summary><b><samp>
     🧮 Programming Stats
   </samp></b></summary>
@@ -23,7 +23,7 @@
   </p>
 </details>
 
-<details align="center">
+<details align="left">
   <summary><b><samp>
     💻 Tech Likes
   </samp></b></summary>
@@ -94,12 +94,9 @@
       </tr>
     </tbody>
   </table>
-  <sup><samp>
-    I know, the table is not centered, but it's not my fault 😂! Read <a href="https://stackoverflow.com/a/44273097/7655838">this</a>.
-  </samp></sup>
 </details>
 
-<details align="center">
+<details>
   <summary><b><samp>
     🖥️ Stack Exchange
   </samp></b></summary>
@@ -108,7 +105,7 @@
   </a>
 </details>
 
-<p align="center"><samp>
+<p><samp>
   <b>
     Any question❔
   </b><br/>
