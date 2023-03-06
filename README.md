@@ -3,7 +3,7 @@
 </samp></h1></u></b>
 
 <p><samp>
-  I'm an student at Da Vinci University (video game development), with a strong affinity towards programming.
+  I'm a Unity programmer at Whiteboard Games.
 </samp></p>
 
 <details>
