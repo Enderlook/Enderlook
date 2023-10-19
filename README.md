@@ -43,8 +43,8 @@
       <tr>
         <th>🥇 Love</th>
         <th>
-          <img src='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' alt='C#' width='30'/>
           <img src='https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg' alt='Rust' width='30'/>
+          <img src='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' alt='C#' width='30'/>
         </th>
         <th>
           <img src='https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png' alt='Unity' width='30'/>
@@ -59,6 +59,7 @@
         </th>
         <th>
           <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' alt='Git' width='30'/>
+          <img src='https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg' alt='Godot' width='30'/>
         </th>
       </tr>
       <tr>
@@ -66,10 +67,10 @@
         <th>
           <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='Javascript' width='30'/>
           <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='HTML' width='30'/>
-          <img src='https://img.icons8.com/color/452/c-plus-plus-logo.png' alt='VBA' width='30'/>
         </th>
         <th>
-          <img src='https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg' alt='Chrome Extensions' width='30'/>        
+          <img src='https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg' alt='Chrome Extensions' width='30'/> 
+          <img src='https://www.pngall.com/wp-content/uploads/10/Solana-Crypto-Logo-PNG-File-180x180.png' alt='Solana' width='30'/>       
         </th>
       </tr>
       <tr>
