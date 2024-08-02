@@ -3,7 +3,7 @@
 </samp></h1></u></b>
 
 <p><samp>
-  I'm a Unity programmer at Whiteboard Games.
+  I'm a Unity programmer at Whiteboard Games and a teacher at Escuela Da Vinci University.
 </samp></p>
 
 <details>
