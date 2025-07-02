@@ -43,7 +43,7 @@
       <tr>
         <th>🥇 Love</th>
         <th>
-          <img src='https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg' alt='Rust' width='30'/>
+          <img src='https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg' alt='Rust' width='30'/>
           <img src='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' alt='C#' width='30'/>
         </th>
         <th>
@@ -69,8 +69,9 @@
           <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='HTML' width='30'/>
         </th>
         <th>
-          <img src='https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg' alt='Chrome Extensions' width='30'/> 
-          <img src='https://www.pngall.com/wp-content/uploads/10/Solana-Crypto-Logo-PNG-File-180x180.png' alt='Solana' width='30'/>       
+          <img src='https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg' alt='Chrome Extensions' width='30'/>
+          <img src='https://www.pngall.com/wp-content/uploads/10/Solana-Crypto-Logo-PNG-File-180x180.png' alt='Solana' width='30'/>
+          <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' alt='MySQL' width='30'/>
         </th>
       </tr>
       <tr>
@@ -80,12 +81,11 @@
         <th>
           <img src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg' alt='Vue' width='30'/>
           <img src='https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg' alt='Electron' width='30'/>
-          <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='NodeJS' width='30'/>        
-          <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' alt='MySQL' width='30'/>
+          <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='NodeJS' width='30'/>
         </th
       </tr>
       <tr>
-        <th>🤔 Others</th>
+        <th>👍 Also Know</th>
         <th>
           <img src='https://icon-library.com/images/vba-icon/vba-icon-10.jpg' alt='VBA' width='30'/>
         </th>
